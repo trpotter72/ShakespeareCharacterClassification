@@ -5,8 +5,13 @@ I decided to try out a few different classification models to see how each perfo
 
 ## TL;DR
 Clean null values ->
+
 One-hot encode play names ->
+
 Vectorize words (mono-grams) ->
+
 K-nearest neighbors (very bad, 7%) ->
+
 Decision tree (ok, 70%) ->
+
 SVM (very bad, 5%)
